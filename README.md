@@ -45,7 +45,7 @@ bash creat_env.sh
 cd $imagenet_dir
 bash extract_ILSVRC.sh 
 ```
-#### Omniglot and tieredImageNet
+#### Omniglot
 We have provide the cache files for Omniglot dataset in './data/omniglot'
 Please extract it on './data' and make sure the structure of files is the same to 'data/omniglot/omniglot_cache_train.npz'
 ```bash
