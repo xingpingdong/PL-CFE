@@ -54,7 +54,7 @@ tar -xf omniglot.tar.xz
 cd ..
 ```
 #### miniImageNet
-We download these miniImageNet ([Google Drive](https://drive.google.com/open?id=16V_ZlkW4SsnNDtnGmaBRq2OoPmUOc5mY))
+We download miniImageNet ([Google Drive](https://drive.google.com/open?id=16V_ZlkW4SsnNDtnGmaBRq2OoPmUOc5mY))
 from [few-shot-ssl](https://github.com/renmengye/few-shot-ssl-public).
 Then place 'mini-imagenet.tar.gz' into ./data/miniimagenet/
 
